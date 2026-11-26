@@ -1,8 +1,7 @@
 # RetailRockets — od obejrzenia produktu do zakupu
 
-Chciałem sprawdzić, co robią w sklepie internetowym osoby, które ostatecznie coś kupują. Czy wracają do sklepu kilka razy? Ile czasu mija od obejrzenia produktu do zakupu?
-
-W Pythonie przeanalizowałem ponad 2,7 mln zdarzeń ze zbioru Retailrocket. Poniżej przedstawiam podsumowanie analizy i pliku `analiza_retailrocket.ipynb`.
+Jeżeli chodzi o pliki z danymi są zbyt duże, żeby GitHub je pomieścił, dlatego poniżej znajduje się link do zbioru danych.
+Przeanalizowałem 2,7 mln zdarzeń ze zbioru Retailrocket. Poniżej przedstawiam podsumowanie analizy i pliku `analiza_retailrocket.ipynb`.
 
 #### *🔍 1. Kontrola jakości danych*
 
